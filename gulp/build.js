@@ -86,7 +86,7 @@ module.exports = function(options) {
   });
 
   gulp.task('deploy', ['build'], function() {
-    gulp.src("./dist/**/*").pipe($.ghPages({
+    return gulp.src("./dist/**/*").pipe($.ghPages({
       remoteUrl: "git@github.com:jplusplus/themigrantsfiles.com.git"
     }));
   });
