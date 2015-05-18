@@ -1,9 +1,16 @@
 header.header.navbar.navbar-default.navbar-fixed-top(headroom)
-  .container
+  .container(ng-init="collapse = true")
+    .pull-right.visible-xs
+      button.navbar-toggle.collapsed(type="button", ng-click="collapse = !collapse")
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+
     .navbar-header
       a.navbar-brand.header__brand The Migrants' Files
 
-    ul.nav.navbar-nav.header__links
+    ul.nav.navbar-nav.navbar-collapse.header__links(ng-class="{ collapse: collapse }")
       li(du-scrollspy="newsletter")
         a(href="#newsletter", du-smooth-scroll) Newsletter
       li(du-scrollspy="the-money-trails")
