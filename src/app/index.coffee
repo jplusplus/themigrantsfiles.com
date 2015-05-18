@@ -1,1 +1,1 @@
-angular.module 'tmf', ['ngAnimate', 'ngSanitize', 'ui.bootstrap', 'headroom']
+angular.module 'tmf', ['ngAnimate', 'ngSanitize', 'ui.bootstrap', 'headroom', 'duScroll']

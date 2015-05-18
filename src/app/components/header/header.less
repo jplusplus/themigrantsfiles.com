@@ -17,7 +17,9 @@
   &__links.nav {
 
     & > li > a,
-    & > li > a:hover {
+    & > li > a:hover,
+    & > li > a:active,
+    & > li > a:focus {
       cursor: pointer;
       padding:0 10px;
       margin:10px;
@@ -25,6 +27,15 @@
       line-height: @navbar-height - 20px;
       border:darken(@brand-primary, 30) 1px solid;
       color:@brand-primary;
+    }
+
+
+    & > li.active > a,
+    & > li.active > a:hover,
+    & > li.active > a:focus,
+    & > li.active > a:active {
+      background:@brand-primary;
+      color:#000;
     }
   }
 }
