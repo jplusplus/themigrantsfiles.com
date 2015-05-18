@@ -17,12 +17,12 @@
         .row.text-center
           .col-sm-6.col-sm-offset-3
               h2 Subscribe to the newsletter
-              form
+              form(name="subscribeForm", ng-submit="subscribe(form.email)")
                 .lead Lorem ipsum dolor sit description
                 .input-group.input-group-lg
-                  input.form-control.input-lg(type="email", placeholder="your@email.com")
+                  input.form-control.input-lg(type="email", placeholder="your@email.com", required, ng-model="form.email")
                   span.input-group-btn
-                    button.btn.btn-default
+                    button.btn.btn-default(type="submit", ng-disabled="!subscribeForm.$valid")
                       | Subscribe
 
 
