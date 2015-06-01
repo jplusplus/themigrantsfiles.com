@@ -31,3 +31,6 @@ Moreover, assessing the geolocation and mapping the registered incidents imposes
 The Migrants’ Files is ongoing. The team continues to collect intelligence on the deaths of Europe’s would-be emigrants. The project aims to further improve the quality of its data, to shed more light on the situation of emigrants seeking refuge in Europe and to consistently track European asylum and migration policy, particularly because  the broader media often ignores the issue until another large-scale emigrant tragedy thrusts it back to the top of the news cycle.
 
 If you wish to contribute, please contact us by email debug@themigrantsfiles.com or through the Twitter hashtag #MigrantsFiles.
+
+The database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/
+Cover picture: Spanish coastguards intercept a migrants' boat off Tenerife © UNHCR A. Rodrigez
