@@ -16,9 +16,10 @@ Several projects developed satellite solutions to identify refugee boats (MARISS
 
 <button class ="getthedata">A draft network visualization of the beneficiaries of these projects is available <a href="https://kumu.io/embed/4ee2bc6525a93ec48417f325f5483611" TARGET="_blank">here.</a></button>
 
-<iframe src="https://kumu.io/embed/4ee2bc6525a93ec48417f325f5483611"" style="width: 100%; height: 400px"
-scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0">
+<iframe src="https://kumu.io/embed/784f8a4446b2973ec3931acc715fcd1c" style="width: 100%; height: 400px"
+scrolling="no" frameborder="0">
 </iframe>
+
 
 ###Billions for nothing
 Research projects are only a fraction of the public money spent to prevent refugees from reaching Europe. Spain, Italy and Greece have spent at least €70 million to acquire boats, night vision equipment, drones, off-road vehicles etc. Spain and Greece built multiple walls. The walls surrounding Ceuta and Melilla, for instance, cost close to €10 million per year to maintain, while the wall closing off passage to Greece cost Greek taxpayers over €7 million. The Italian government tried repeatedly to convince Libyan strongmen to prevent refugees from crossing into Italy, by ways of paying for detention centers and deportation flights from Libya. Since 2011, Italian taxpayers paid over €17 million in gifts in kind to Libyan authorities, such as boats, trainings and night vision goggles for the express purpose of tracking refugees and migrants.
