@@ -34,8 +34,8 @@ module.exports = function(options) {
       }
     });
 
+    gulp.watch(options.src + '/articles/**/*.md', ['partials']);
     gulp.watch(options.src + '/app/**/*.jade', ['markups']);
-
     gulp.watch(options.src + '/app/**/*.html', function(event) {
       browserSync.reload(event.path);
     });
