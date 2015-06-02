@@ -10,12 +10,12 @@ The Airbus Group, through 14 subsidiaries, participated in 10 projects. Finmecca
 
 Several projects developed satellite solutions to identify refugee boats (MARISS, LIMES, DOLPHIN), surveillance the Southern borders of the EU (OPERAMAR, WIMAAS, AEROCEPTOR) or aim at increasing controls at borders (STABORSEC, EFFISEC, FASTPASS, ABC4EU). INGRESS aimed at improving the fingerprint scanning technology. Four projects (DOGGIES, SNIFFER, SNIFFLES and SNOOPY) develop enhanced noses for dogs, in order for them to better detect refugees at border crossing points. Two projects developed robots that patrol the borders at sea (UNCOSS) and on land (TALOS).
 
-<a class="btn btn-default" href="https://docs.google.com/spreadsheets/d/1OJJIVeSdmzNBUi6aBJIdVtHzv4-opnBewGpVBxJXRgw/edit#gid=6441497" target="_blank">
+<a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1OJJIVeSdmzNBUi6aBJIdVtHzv4-opnBewGpVBxJXRgw/edit#gid=6441497" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on research projects
 </a>
 
-<a class="btn btn-default" href="https://kumu.io/embed/4ee2bc6525a93ec48417f325f5483611" target="_blank">
+<a class="btn btn-doc btn-md" href="https://kumu.io/embed/4ee2bc6525a93ec48417f325f5483611" target="_blank">
   <i class="fa fa-fw fa-share-alt"></i>&nbsp;
   A draft network visualization of the beneficiaries of these projects
 </a>
@@ -37,7 +37,7 @@ Regulations agreed on by member states and coordinated by the European Commissio
 
 More worryingly, the European Commission itself is badly informed of the issue. Despite the billion of euros poured in Frontex, the Commissioner for Migration and Home Affairs does not know what data its own agencies collect.
 
-<a class="btn btn-default" href="https://docs.google.com/spreadsheets/d/1wC72sDmuN-mvwgMcSWhO-R3E-1wmSE19B_KiW7RBRSc/edit#gid=171341358" target="_blank">
+<a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1wC72sDmuN-mvwgMcSWhO-R3E-1wmSE19B_KiW7RBRSc/edit#gid=171341358" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on amounts spent
 </a>
@@ -52,7 +52,7 @@ Similarly, the number of persons deported is not measured. There are over 10 leg
 
 Despite these hurdles, the data we managed to gather is coherent across time and space, and lets us estimate the cost of a deportation. Member states spent on average 4,000€ to deport a man or a woman, half of these costs in transport. Altogether, the cost of deportations in Europe is close to a billion euro per year.
 
-<a class="btn btn-default" href="https://docs.google.com/spreadsheets/d/1rDThuJ1HVTsWWPEvauOIGuY0kd7h8fGkrxebmlMt7h4/edit#gid=0" target="_blank">
+<a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1rDThuJ1HVTsWWPEvauOIGuY0kd7h8fGkrxebmlMt7h4/edit#gid=0" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on deportations
 </a>  
@@ -70,7 +70,7 @@ The most popular way to Europe remains to travel by plane, but no data exist on 
 
 The statistical methods we chose provide an absolute minimum number (see Methodology on the document linked below) and covers only journeys by sea or land. Several testimonies of refugees show the complexity of the schemes they have to go through, sometimes travelling over 20,000km by plane to reach Europe from Syria.
 
-<a class="btn btn-default" href="https://docs.google.com/spreadsheets/d/1cynO8lp6crS4p9kJZUqYUigEB15F2cAwGm7aD9cwoZU/edit#gid=779131653" target="_blank">
+<a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1cynO8lp6crS4p9kJZUqYUigEB15F2cAwGm7aD9cwoZU/edit#gid=779131653" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on money paid by refugees and migrants
 </a>
