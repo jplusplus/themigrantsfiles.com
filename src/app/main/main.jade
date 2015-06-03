@@ -23,7 +23,7 @@
           .col-sm-6.col-sm-offset-3
               h2 Subscribe to the newsletter
               form(name="subscribeForm", ng-submit="subscribe(form.email)")
-                .lead Lorem ipsum dolor sit description
+                .lead Every 3 months, get data-driven insights on migration to Europe.
                 .input-group.input-group-lg
                   input.form-control.input-lg(type="email", placeholder="your@email.com", required, ng-model="form.email")
                   span.input-group-btn
@@ -36,34 +36,42 @@
       .row.text-center
 
         .col-sm-4.col-sm-offset-1
-          h2 The money trails <sup>new</sup>
+          h2 The Money Trails <sup>new</sup>
           .lead.
-            The Migrants' Files project was launched in August 2013 by a group of
-            European journalists who joined forces to accurately calculate and report
-            the deaths of emigrants seeking refuge in Europe.
+            Refugees and migrants spend over €1&nbsp;billion a year
+            to reach Europe. Europeans pay a similar amount to keep them out. 
+            A few companies benefit handsomely in the process.
           a(href="#the-money-trails", du-smooth-scroll).btn.btn-outline.btn-white.btn-lg Read the story
 
         .col-sm-4.col-sm-offset-2
-          h2 Counting the dead
+          h2 Counting the Dead
           .lead.
-            The Migrants' Files project was launched in August 2013 by a group of
-            European journalists who joined forces to accurately calculate and report
-            the deaths of emigrants seeking refuge in Europe.
+            Over 30,000 refugees and migrants died
+            in their attempt to reach or stay in Europe since 2000.
+            Our investigation showed how European policies impacted the death rate.
           a(href="#counting-the-dead", du-smooth-scroll).btn.btn-outline.btn-white.btn-lg Read the story
+  
+  .main__thanks
+    .container
+        .row.text-center
+          .col-sm-6.col-sm-offset-3
+              h3 This project is supported in part by
+              a(href="//journalismfund.eu/")
+                img(src="assets/images/journalismfund.png")
 
   #the-money-trails.main__article.main__article--first
     .container
       .row
         .main__article__body.col-sm-7
-          h2.main__article__title The money trails
+          h2.main__article__title The Money Trails
           include:markdown ../../articles/the-money-trails.md
         .main__article__sidebar.col-sm-4.col-sm-offset-1
-          h3.main__article__sidebar__title Material
+          h3.main__article__sidebar__title Stories
           h3.main__article__sidebar__title Partners
           h3.main__article__sidebar__title Credits
           p <strong>Coordination</strong>: Journalism++
-          p <strong>Research and code</strong>: Elaine Allaby, Michail Batikas (Radiobubble), Michael Bauer (Der Standard), Ana Isabel Carvalho (Journalism++ Porto), Jakob Espersen, Daniele Grasso (El Confidencial), Peter Grensund (Journalism++ Stockholm), Sylke Grunwald (SRF), Markus Hametner (Der Standard), Kristian Holgersen, Alice Kohli, Ricardo Lafuente (Journalism++ Porto), Alexandre Léchenet (Libération), Jean-Marc Manach, Andrea Nelson Mauro (Dataninja), Jacopo Ottaviani, Lise Møller Schilder, Katerina Stavroula (Radiobubble).
-          p <strong>Research assistants</strong>: Clotilde Lavergne-Bril, Niklas Swedberg
+          p <strong>Research and code</strong>: Elaine Allaby, Michail Batikas (Radiobubble), Michael Bauer (Der Standard), Ana Isabel Carvalho (Journalism++ Porto), Jakob Espersen, Daniele Grasso (El Confidencial), Peter Grensund (Journalism++ Stockholm), Sylke Grunwald (SRF), Markus Hametner (Der Standard), Kristian Holgersen, Alice Kohli, Ricardo Lafuente (Journalism++ Porto), Alexandre Léchenet (Libération), Jean-Marc Manach, Andrea Nelson Mauro (Dataninja), Jacopo Ottaviani, Adam Rodriques (Global Initiative), Lise Møller Schilder, Katerina Stavroula (Radiobubble).
+          p <strong>Research assistants</strong>: Clotilde Lavergne-Bril, Niklas Swedberg.
 
   #counting-the-dead.main__article.main__article--second
     .container
@@ -72,11 +80,32 @@
           h2.main__article__title Counting the dead
           include:markdown ../../articles/counting-the-dead.md
         .main__article__sidebar.col-sm-4.col-sm-offset-1
-          h3.main__article__sidebar__title Material
+          h3.main__article__sidebar__title Stories
+          p
+            a(href="http://www.nzz.ch/aktuell/international/auslandnachrichten/die-toten-vor-europas-tueren-1.18272891#") Die Toten vor Europas Türen (NZZ)
+          p
+            a(href="http://www.nzz.ch/aktuell/international/auslandnachrichten/daten-einer-tragoedie-1.18272916") Daten einer Tragödie (NZZ)
+          p
+            a(href="http://www.rbdata.gr/themigrantsfiles/index.html") Τα θανατηφόρα τείχη της Ευρώπης (Radiobubble)
+          p
+            a(href="http://www.elconfidencial.com/mundo/2014-03-31/trece-anos-de-inmigracion-mas-de-23-000-muertos-por-intentar-alcanzar-europa_108953/") Trece años de inmigración: más de 23.000 muertos por intentar alcanzar Europa (El Confidencial)
+          p
+            a(href="http://www.elconfidencial.com/mundo/2014-03-31/ante-el-cierre-de-fronteras-los-inmigrantes-se-vuelcan-hacia-rutas-mas-peligrosas_109006/") Ante el cierre de fronteras, los inmigrantes se vuelcan hacia rutas más peligrosas (El Confidencial)
+          p
+            a(href="http://hbl.fi/nyheter/2014-03-31/587881/fastning-europa-kraver-tusentals-liv") Fästning Europa kräver tusentals liv (€, HBL) 
+          p
+            a(href="http://speciali.espresso.repubblica.it/interattivi-2014/migranti/index.html") Migranti, la guerra del Mediterraneo (L&#8217;Espresso)
+          p
+            a(href="http://www.mo.be/nieuws/de-weg-naar-europa-een-kerkhof") De weg naar Europa is een kerkhof (Mondial Nieuws)
+          p
+            a(href="http://www.monde-diplomatique.fr/carnet/2014-03-31-morts-aux-frontieres") « Ces gens-là sont morts, ce ne sont plus des migrants » (Le Monde Diplomatique)
+          p
+            a(href="http://euobserver.com/justice/123682") Surveying migrants&#8217; deaths at Europe&#8217;s door (EU Observer)
 
           h3.main__article__sidebar__title Partners
           .main__article__sidebar__partner
-            img(alt="NZZ", src="https://detective-io.s3.amazonaws.com/img/partners/01%20-%20NZZ.png")
+            img(alt="NZZ", 
+                src="https://detective-io.s3.amazonaws.com/img/partners/01%20-%20NZZ.png")
           .main__article__sidebar__partner
             img(alt="El Confidencial", src="https://detective-io.s3.amazonaws.com/img/partners/02%20-%20El%20Confidencial.png")
           .main__article__sidebar__partner
