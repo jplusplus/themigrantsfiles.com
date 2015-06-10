@@ -21,6 +21,7 @@
 
     &__map {
       background:#C0CFD7;
+      border-bottom:1px solid #EEE;
     }
 
     &:after {
@@ -30,7 +31,7 @@
       pointer-events: none;
       left:0;
       top:0;
-      bottom:30px;
+      bottom:0;
       right:40%;
       #gradient > .directional(fade(#000, 80), fade(#000, 0), 90deg);
     }
@@ -146,6 +147,10 @@
     &--second {
       background:#FFF;
       color: contrast(#FFF);
+
+      a {
+        color:darken(@link-color, 10);
+      }
 
       .main__article__title:after {
         border-color: contrast(#FFF);
