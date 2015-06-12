@@ -1,3 +1,5 @@
+#### March 31, 2014
+
 They know their lives are at risk, yet each year thousands of people from Africa, the Middle East and beyond — war refugees, asylum seekers and economic migrants — leave their homes and try to reach the promised land of Europe. On the third of October 2013, more than 360 would-be emigrants drowned off the coast of the Italian island of Lampedusa. A catastrophe of this dimension grabbed the media’s attention for a while and won the sympathy of the general public.
 
 In response, later that month, the European Council decided to implement measures aimed at preventing a repeat of such a tragedy at the European Union's borders .The Council called for strengthening the EU’s border security co-ordination system, Frontex, more formally known as the European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union. And the Europe-wide surveillance system Eurosur began operations on December 2, 2013. Thus, once again, a large tragedy spurred real, if belated, action.
@@ -32,5 +34,11 @@ The Migrants’ Files is ongoing. The team continues to collect intelligence on 
 
 If you wish to contribute, please contact us by email debug@themigrantsfiles.com or through the Twitter hashtag #MigrantsFiles.
 
-The database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/
+<a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1YNqIzyQfEn4i_be2GGWESnG2Q80E_fLASffsXdCOftI/edit?usp=sharing" target="_blank">
+  <i class="fa fa-fw fa-table"></i>&nbsp;
+  All data on migrant and refugee deaths
+</a>
+
+The database is made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</A>. The contents of the database belong to their respective owners.
+
 Cover picture: Spanish coastguards intercept a migrants' boat off Tenerife © UNHCR A. Rodrigez
