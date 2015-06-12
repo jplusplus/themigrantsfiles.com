@@ -34,7 +34,7 @@ The Migrants’ Files research reveals that three companies garnered most of the
 </a>
 
 
-<iframe src="//derstandard.at/interaktiv/2015-06-migrantfiles-research/#en" style="width: 100%; height: 400px" scrolling="no" frameborder="0"></iframe>
+<iframe src="//derstandard.at/interaktiv/2015-06-migrantfiles-research/#en" style="width: 100%; height: 800px" scrolling="no" frameborder="0"></iframe>
 
 
 ### Software: A favorite security budget item
