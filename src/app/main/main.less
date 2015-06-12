@@ -144,25 +144,25 @@
       }
     }
 
+
     &--first {
+      background:#FFF;
+
+      a {
+        color:darken(@link-color, 20);
+      }
+
+      .main__article__title:after {
+        border-color: contrast(#FFF);
+      }
+    }
+
+    &--second {
       background:@gray-darker;
       color: contrast(@gray-darker);
 
       .main__article__title:after {
         border-color: contrast(@gray-darker);
-      }
-    }
-
-    &--second {
-      background:#FFF;
-      color: contrast(#FFF);
-
-      a {
-        color:darken(@link-color, 10);
-      }
-
-      .main__article__title:after {
-        border-color: contrast(#FFF);
       }
     }
   }

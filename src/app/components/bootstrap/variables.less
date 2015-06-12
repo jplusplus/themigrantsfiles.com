@@ -1,7 +1,7 @@
 //
 // Variables
 // --------------------------------------------------
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700|Source+Sans+Pro:400,300,700);
 
 
 //== Colors
@@ -15,7 +15,7 @@
 @gray-light:             lighten(@gray-base, 46.7%); // #777
 @gray-lighter:           lighten(@gray-base, 93.5%); // #eee
 
-@brand-primary:         #FED200;
+@brand-primary:         #f0dc5b;
 @brand-success:         #5cb85c;
 @brand-info:            #5bc0de;
 @brand-warning:         #f0ad4e;
@@ -29,7 +29,7 @@
 //** Background color for `<body>`.
 @body-bg:               #B8B8B8;
 //** Global text color on `<body>`.
-@text-color:            @gray-dark;
+@text-color:            #3B322D;
 
 //** Global textual link color.
 @link-color:            @brand-primary;
@@ -66,7 +66,7 @@
 @line-height-computed:    floor((@font-size-base * @line-height-base)); // ~20px
 
 //** By default, this inherits from the `<body>`.
-@headings-font-family:    inherit;
+@headings-font-family:    'Roboto Condensed', @font-family-sans-serif;
 @headings-font-weight:    500;
 @headings-line-height:    1.1;
 @headings-color:          inherit;
