@@ -108,3 +108,5 @@ The most popular way to enter Europe remains by plane. So far, no solid data exi
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on money paid by refugees and migrants
 </a>
+
+The databases are made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</A>. The contents of the databases belong to their respective owners.

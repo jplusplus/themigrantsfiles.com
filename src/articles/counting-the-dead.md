@@ -34,5 +34,11 @@ The Migrants’ Files is ongoing. The team continues to collect intelligence on 
 
 If you wish to contribute, please contact us by email debug@themigrantsfiles.com or through the Twitter hashtag #MigrantsFiles.
 
-The database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/
+<a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1YNqIzyQfEn4i_be2GGWESnG2Q80E_fLASffsXdCOftI/edit?usp=sharing" target="_blank">
+  <i class="fa fa-fw fa-table"></i>&nbsp;
+  All data on migrant and refugee deaths
+</a>
+
+The database is made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</A>. The contents of the database belong to their respective owners.
+
 Cover picture: Spanish coastguards intercept a migrants' boat off Tenerife © UNHCR A. Rodrigez
