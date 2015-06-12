@@ -1,6 +1,8 @@
+#### June 18, 2015
+
 ## Follow the money – some of it – into the sub-economy spawned by migration
 
-* Sealing its borders to immigrants costs Europe’s taxpayers billions of euro a year. Policy implementation is costly, and the public purse has opened wide for a few select contractors. The Migrants’ Files project names some of the economic winners from Europe’s closed-door immigration policy. *
+** Sealing its borders to immigrants costs Europe’s taxpayers billions of euro a year. Policy implementation is costly, and the public purse has opened wide for a few select contractors. The Migrants’ Files project names some of the economic winners from Europe’s closed-door immigration policy. **
 
 When the horrors of the war in Bosnia-Herzegovina shocked television viewers in the early 1990s, the European public could not look the other way. In response, many countries relaxed their entry policies. 
 
@@ -31,7 +33,7 @@ The Migrants’ Files research reveals that three companies garnered most of the
   All data on research projects
 </a>
 
-<iframe src="http://derstandard.at/interaktiv/2015-06-migrantfiles-research/#en" style="width: 100%; height: 400px"
+<iframe src="//derstandard.at/interaktiv/2015-06-migrantfiles-research/#en" style="width: 100%; height: 400px"
 scrolling="no" frameborder="0">
 </iframe>
 
@@ -79,11 +81,13 @@ It is difficult to assemble good deportation data for Europe. Definitions of an 
 
 After carefully sifting through the available data, and acknowledging its deficits, The Migrants’ Files concludes that the cost of deportations in Europe is close to a billion euro per year.
 
-
 <a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1rDThuJ1HVTsWWPEvauOIGuY0kd7h8fGkrxebmlMt7h4/edit#gid=0" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on deportations
 </a>  
+
+<iframe src="https://jplusplus.github.io/tmf-moneytrail/" style="width: 100%; height: 1500px"
+scrolling="no" frameborder="0"></iframe>
 
 ### What migrants pay traffickers
 

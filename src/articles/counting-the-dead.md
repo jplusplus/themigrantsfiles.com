@@ -1,3 +1,5 @@
+#### March 31, 2014
+
 They know their lives are at risk, yet each year thousands of people from Africa, the Middle East and beyond — war refugees, asylum seekers and economic migrants — leave their homes and try to reach the promised land of Europe. On the third of October 2013, more than 360 would-be emigrants drowned off the coast of the Italian island of Lampedusa. A catastrophe of this dimension grabbed the media’s attention for a while and won the sympathy of the general public.
 
 In response, later that month, the European Council decided to implement measures aimed at preventing a repeat of such a tragedy at the European Union's borders .The Council called for strengthening the EU’s border security co-ordination system, Frontex, more formally known as the European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union. And the Europe-wide surveillance system Eurosur began operations on December 2, 2013. Thus, once again, a large tragedy spurred real, if belated, action.
