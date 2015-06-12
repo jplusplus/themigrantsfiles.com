@@ -33,9 +33,8 @@ The Migrants’ Files research reveals that three companies garnered most of the
   All data on research projects
 </a>
 
-<iframe src="//derstandard.at/interaktiv/2015-06-migrantfiles-research/#en" style="width: 100%; height: 400px"
-scrolling="no" frameborder="0">
-</iframe>
+
+<iframe src="//derstandard.at/interaktiv/2015-06-migrantfiles-research/#en" style="width: 100%; height: 400px" scrolling="no" frameborder="0"></iframe>
 
 
 ### Software: A favorite security budget item
@@ -86,8 +85,12 @@ After carefully sifting through the available data, and acknowledging its defici
   All data on deportations
 </a>  
 
-<iframe src="https://jplusplus.github.io/tmf-moneytrail/" style="width: 100%; height: 1500px"
-scrolling="no" frameborder="0"></iframe>
+<div id="iframe-treemap"></div>
+<script>
+  new pym.Parent('iframe-treemap', 'http://jplusplus.github.io/tmf-moneytrail/', {});
+</script>
+
+
 
 ### What migrants pay traffickers
 
