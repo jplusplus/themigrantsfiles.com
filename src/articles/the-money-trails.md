@@ -48,7 +48,7 @@ As a case in point, consider Eurodac, the European fingerprint database. The sys
 Designed to identify asylum applicants by their fingerprints, Eurodac should enable EU countries to determine whether an asylum applicant who has been “found illegally present within an EU country has previously claimed asylum in another EU” member state. That sounds like a worthy system but in fact at least ten people a year are wrongly deported due to false system hits in the fingerprint ID scanning devices. The true number may be far higher. 
 
 According to an employee of a leading scanning device manufacturer, who spoke on condition of anonymity, every fingerprint scanner is calibrated to produce a certain ratio of false hits. (The team’s source could not reveal the false hit settings for the Eurodac’s devices.) 
-It is disturbing to note that all EU member states, plus Norway, Iceland and Switzerland, currently rely on this inherently, admittedly flawed identification system. And no one in government, in the media or in the corporations themselves seems concerned with the human costs of the system’s manifestly poor performance.
+It is disturbing to note that all EU member states, plus Norway, Iceland, Liechtenstein and Switzerland, currently rely on this inherently, admittedly flawed identification system. And no one in government, in the media or in the corporations themselves seems concerned with the human costs of the system’s manifestly poor performance.
 
 <a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1wC72sDmuN-mvwgMcSWhO-R3E-1wmSE19B_KiW7RBRSc/edit#gid=171341358" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
@@ -70,7 +70,7 @@ The Italian government had a functioning arrangement whereby they paid Libyan st
 
 ### The high costs of deportation
 
-For some reason, the largest single cost stemming from Europe’s closed immigration policy has been off the radar, until now. It isn’t hardware, nor is it software. It’s bureaucracy. Red tape is very expensive. Since 2000, the 28 EU member states plus Norway, Switzerland and Iceland have deported millions of people. This has cost an enormous sum, at least 11.3 billion euro. 
+For some reason, the largest single cost stemming from Europe’s closed immigration policy has been off the radar, until now. It isn’t hardware, nor is it software. It’s bureaucracy. Red tape is very expensive. Since 2000, the 28 EU member states plus Norway, Liechtenstein, Switzerland and Iceland have deported millions of people. This has cost an enormous sum, at least 11.3 billion euro. 
 
 Various attempts have been made to measure the total costs of Europe’s asylum policies, but none has been made to assess the costs of deportations at the European level. Parliamentary committees in France and Italy tried to determine the costs of deportations. Their estimates were two to four times higher than those offered by the police.
 
