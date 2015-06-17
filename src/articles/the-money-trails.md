@@ -106,11 +106,12 @@ Migration solutions like a hundred thousand dollar speedboat run from Libya to I
 
 The most popular way to enter Europe remains by plane. So far, no solid data exists on the number of people who use planes as facilitators for slipping through Europe’s closed border. Anecdotes suggest that reaching Europe by air often involves a complex strategy. Iraqi refugees, for instance, can pay 16,000 euro to fly from Mosul to Paris via – and here’s the trick – Cayenne, Belem, Sao Paulo and Istanbul. Moroccan facilitators offer migrants a flight to Paris for five thousand euro that lets them bypass immigration authorities, instead using a hidden exit at Charles de Gaulle airport, an operation that obviously requires accomplices among airport staff and state administration.
 
-
 <a class="btn btn-doc btn-md" href="https://docs.google.com/spreadsheets/d/1cynO8lp6crS4p9kJZUqYUigEB15F2cAwGm7aD9cwoZU/edit#gid=779131653" target="_blank">
   <i class="fa fa-fw fa-table"></i>&nbsp;
   All data on money paid by refugees and migrants
 </a>
+
+<a href="https://github.com/jplusplus/themigrantsfiles.com/wiki/TMF-Money-Trails:-Methodology" target="_blank">Read the full methodology of the investigation</a>.
 
 The databases are made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</A>. The contents of the databases belong to their respective owners, make sure to check the sources.
 
