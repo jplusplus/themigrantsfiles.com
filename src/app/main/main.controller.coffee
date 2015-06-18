@@ -10,4 +10,3 @@ angular.module "tmf"
       $window.open url, '_blank'
       # Empty the form
       $scope.form.email = ''
-

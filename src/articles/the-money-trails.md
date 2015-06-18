@@ -85,10 +85,7 @@ After carefully sifting through the available data, and acknowledging its defici
   All data on deportations
 </a>  
 
-<div id="iframe-treemap"></div>
-<script>
-  new pym.Parent('iframe-treemap', 'http://jplusplus.github.io/tmf-moneytrail/', {});
-</script>
+<div id="iframe-treemap" data-iframe data-url="http://jplusplus.github.io/tmf-moneytrail/"></div>
 
 
 
@@ -113,7 +110,7 @@ The most popular way to enter Europe remains by plane. So far, no solid data exi
 
 Read the [full methodology of the investigation](https://github.com/jplusplus/themigrantsfiles.com/wiki/TMF-Money-Trails:-Methodology).
 
-The databases are made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</A>. The contents of the databases belong to their respective owners, make sure to check the sources.
+The databases are made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</a>. The contents of the databases belong to their respective owners, make sure to check the sources.
 
 If you wish to contribute, please contact us by email **debug@themigrantsfiles.com** or through the Twitter hashtag **#MigrantsFiles**.
 
