@@ -20,7 +20,7 @@ In the first six months of 2014, which is the latest available data, 5.5 million
 
 As a tool to implement policy, security research has been a budget item since the European Commission established a working group on this topic in 2003. Conspicuously missing from that’s select group are any representatives from the IOM (International Organization of Migration) or UNHCR. But four leading European arms manufacturers participate in the working group – Airbus (formerly EADS), Thales, Finmeccanica and BAE  – as do the technology companies Saab, Indra, Siemens and Diehl and others.
 
-The EU’s security research working group has met only twice. That was apparently often enough to cement the structure, objectives and ideology of the group’s security research agenda. 
+The EU’s security research working group has met only twice. That was apparently often enough to cement the structure, objectives and ideology of the group’s security research agenda.<sup><a href="#note1">[1]</a></sup>
 
 A few arms and technology companies have reaped windfalls from the Europe’s immigration policy. The Migrants’ Files team ran the data, which means, in the first place, finding the data. The team analyzed 39 R&D projects financed by the EU or by ESA, the European Space Agency from 2002 to 2013 with a total funding of 225 million euro. All spent to protect Europe’s borders. 
 
@@ -111,8 +111,13 @@ The most popular way to enter Europe remains by plane. So far, no solid data exi
   All data on money paid by refugees and migrants
 </a>
 
-<a href="https://github.com/jplusplus/themigrantsfiles.com/wiki/TMF-Money-Trails:-Methodology" target="_blank">Read the full methodology of the investigation</a>.
+Read the [full methodology of the investigation](https://github.com/jplusplus/themigrantsfiles.com/wiki/TMF-Money-Trails:-Methodology).
 
 The databases are made available under the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Database License</A>. The contents of the databases belong to their respective owners, make sure to check the sources.
 
 If you wish to contribute, please contact us by email **debug@themigrantsfiles.com** or through the Twitter hashtag **#MigrantsFiles**.
+
+
+### Notes
+
+<div id="note1">1: Read more on the EU security research programs in the 2009 <a href="http://www.statewatch.org/analyses/neoconopticon-report.pdf" target="_blank">Statewatch Neoconopticon report</a>.</div>
