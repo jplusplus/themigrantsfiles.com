@@ -20,7 +20,7 @@ In the first six months of 2014, which is the latest available data, 5.5 million
 
 As a tool to implement policy, security research has been a budget item since the European Commission established a working group on this topic in 2003. Conspicuously missing from that’s select group are any representatives from the IOM (International Organization of Migration) or UNHCR. But four leading European arms manufacturers participate in the working group – Airbus (formerly EADS), Thales, Finmeccanica and BAE  – as do the technology companies Saab, Indra, Siemens and Diehl and others.
 
-The EU’s security research working group has met only twice. That was apparently often enough to cement the structure, objectives and ideology of the group’s security research agenda.<sup><a href="#note1">[1]</a></sup>
+The EU’s security research working group has met only twice. That was apparently often enough to cement the structure, objectives and ideology of the group’s security research agenda.<sup><a href="#note1" du-smooth-scroll>[1]</a></sup>
 
 A few arms and technology companies have reaped windfalls from the Europe’s immigration policy. The Migrants’ Files team ran the data, which means, in the first place, finding the data. The team analyzed 39 R&D projects financed by the EU or by ESA, the European Space Agency from 2002 to 2013 with a total funding of 225 million euro. All spent to protect Europe’s borders. 
 
