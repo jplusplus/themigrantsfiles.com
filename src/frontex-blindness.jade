@@ -16,7 +16,7 @@ html
     meta(name='twitter:image:src', content='http://www.themigrantsfiles.com/assets/images/tm.jpg')    
     meta(name='twitter:url', content='http://www.themigrantsfiles.com/')
     link(rel='stylesheet', href='styles/vendor.css')
-    link(rel='stylesheet', href='styles/index.css')
+    link(rel='stylesheet', href='styles/app.css')
     link(rel='stylesheet', href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css')   
   body
     header.header.navbar.navbar-default.navbar-fixed-top(headroom)
@@ -28,4 +28,6 @@ html
               a(href="/") Back to the homepage
     .container.header-gap
       include:markdown articles/frontex-blindness.md
+      .text-right 
+        strong Jean-Marc Manach      
       br 
