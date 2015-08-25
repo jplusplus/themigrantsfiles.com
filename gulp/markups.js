@@ -11,10 +11,10 @@ module.exports = function(options) {
       path.extname = '.html';
     }
 
-    return gulp.src(options.src + '/app/**/*.jade')
+    return gulp.src(options.src + '/**/*.jade')
       .pipe($.consolidate('jade', { basedir: options.src, doctype: 'html', pretty: '  ' })).on('error', options.errorHandler('Jade'))
       .pipe($.rename(renameToHtml))
-      .pipe(gulp.dest(options.tmp + '/serve/app/'))
+      .pipe(gulp.dest(options.tmp + '/serve/'))
       .pipe(browserSync.reload({ stream: true }));
   });
 };
