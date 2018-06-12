@@ -95,7 +95,7 @@ Despite grandiose high-tech systems, the militarization of the Greek, Italian, B
 
 Since 2000, the best data suggests that some 1.2 million undocumented refugees and migrants have made the journey into Europe by sea and land, excluding air travel. Several million more entered by using faked passports or simply by overstaying their visas. For undocumented refugees, passage is costly. 
 
-Migrants’ payments for passage in total form large stream in the sub-economy created by Europe’s closed doors. How large? The Migrants’ Files estimates that over the past fifteen years, refuges have paid a staggering 16 billion euro to travel to Europe. That for so many, their journey ends by drowning at sea adds a sense of tragedy to the frustration many feel with current EU policy. 
+Migrants’ payments for passage in total form large stream in the sub-economy created by Europe’s closed doors. How large? The Migrants’ Files estimates that over the past fifteen years, refuges have paid a staggering 1.6 billion euro to travel to Europe. That for so many, their journey ends by drowning at sea adds a sense of tragedy to the frustration many feel with current EU policy. 
 
 It’s unclear whether transit prices or facilitators’ margins have gone up since the civil war in Syria. Indeed, too little is known about how these migration facilitators operate. The governments of Syria and Libya, for instance, are believed to have organized refugee boats of their own, both as a source of revenue and as a bartering chip in negotiations with European states. And matters are not helped by Europe’s failure to distinguish between crass human traffickers and genuinely compassionate helpers. The latter are also considered criminals by most European legislators.
 
